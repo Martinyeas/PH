@@ -26,3 +26,7 @@ body {
     background-color: #4caf99;
     color: white;
   }
+  .epic a {
+    background-color: white;
+    color: black;
+  }
