@@ -1,5 +1,5 @@
 body {
-  background-color: wheat;
+  background-color: rgb(90, 128, 177);
 }
 .topnav {
   background-color:rgb(83, 83, 83);
@@ -25,4 +25,12 @@ body {
 .topnav a.active {
   background-color: #4caf99;
   color: white;
+}
+.epic a {
+  background-color: grey;
+  color: white;
+  margin: 4px 2px;
+  display: inline-block;
+  text-align: center;
+  border: none;
 }
