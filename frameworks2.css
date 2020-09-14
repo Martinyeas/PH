@@ -1,5 +1,7 @@
 body {
-  background-color: wheat;
+  background-color: rgb(90, 128, 177);
+  background-image: url(bg.png);
+  background-repeat: no-repeat;
 }
 .topnav {
   background-color:rgb(83, 83, 83);
